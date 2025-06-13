@@ -141,7 +141,8 @@ Me chamo Gabriel Dias, tenho 20 anos e sou natural de Paraguaçu Paulista, São 
 <p>
 
 ### 📊 Estatísticas
-  
+
+  <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -153,7 +154,8 @@ Me chamo Gabriel Dias, tenho 20 anos e sou natural de Paraguaçu Paulista, São 
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="165"
+      style="transform: scaleX(0.8); transform-origin: left;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
