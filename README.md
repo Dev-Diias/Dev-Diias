@@ -10,7 +10,7 @@
 
 **Desenvolvedor FullStack**
 
-Me chamo **Gabriel Dias**, tenho 20 anos e sou natural de Paraguaçu Paulista - SP. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Fundação Educacional do Município de Assis (FEMA)**. Acredito no poder da tecnologia para transformar vidas e estou em constante evolução, sempre aprendendo e compartilhando minha jornada por aqui!
+Me chamo **Gabriel Dias**, tenho 21 anos e sou natural de Paraguaçu Paulista - SP. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Fundação Educacional do Município de Assis (FEMA)**. Acredito no poder da tecnologia para transformar vidas e estou em constante evolução, sempre aprendendo e compartilhando minha jornada por aqui!
 
 ---
 
