@@ -63,8 +63,8 @@ Me chamo **Gabriel Dias**, tenho 21 anos e sou natural de Paraguaçu Paulista - 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dev-Diias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diias&theme=tokyonight&layout=compact&langs_count=9" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dev-Diias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" alt="Estatísticas GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diias&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=1800" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
