@@ -17,17 +17,17 @@ Me chamo **Gabriel Dias**, tenho 21 anos e sou natural de Paraguaçu Paulista - 
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://github.com/Dev-Diias?tab=repositories&sort=stargazers">
-    <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Dev-Diias?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
+  <a href="https://github.com/Dev-Diias">
+    <img src="https://img.shields.io/github/stars/Dev-Diias?style=for-the-badge&logo=github&color=55960c&label=Estrelas" alt="Estrelas">
   </a>
   <a href="https://github.com/Dev-Diias?tab=followers">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/Dev-Diias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores" />
+    <img src="https://img.shields.io/github/followers/Dev-Diias?style=for-the-badge&logo=github&color=236ad3&label=Seguidores" alt="Seguidores">
   </a>
   <a href="https://www.instagram.com/ga_diiass/" target="_blank">
-    <img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-dias-4884612b3/" target="_blank">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -63,17 +63,8 @@ Me chamo **Gabriel Dias**, tenho 21 anos e sou natural de Paraguaçu Paulista - 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Diias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Estatísticas GitHub"
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diias&theme=tokyonight&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=9"
-    alt="Linguagens Mais Usadas"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dev-Diias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Diias&theme=tokyonight&layout=compact&langs_count=9" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
-
